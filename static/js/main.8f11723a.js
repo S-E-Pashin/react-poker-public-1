@@ -6110,7 +6110,7 @@
     return e[r](a, a.exports, t), a.exports
   }
 
-  t.p = "/", function () {
+  t.p = "", function () {
     var e = t(791), n = t(250);
     var r = t.p + "https://s-e-pashin.github.io/react-poker-public-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg";
 
