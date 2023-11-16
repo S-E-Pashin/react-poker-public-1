@@ -164,19 +164,19 @@ main {
 }
 
 .suit-image .club {
-  background-image: url(/static/media/club.svg)
+  background-image: url(https://s-e-pashin.github.io/react-poker-public-1/static/media/club.svg)
 }
 
 .suit-image .diamonds {
-  background-image: url(/static/media/diamond.e4da86684415762cf8b4.svg)
+  background-image: url(https://s-e-pashin.github.io/react-poker-public-1/static/media/diamond.e4da86684415762cf8b4.svg)
 }
 
 .suit-image .peak {
-  background-image: url(/static/media/peak.2e92ca136514e9cfbf9f.svg)
+  background-image: url(https://s-e-pashin.github.io/react-poker-public-1/static/media/peak.2e92ca136514e9cfbf9f.svg)
 }
 
 .suit-image .hearts {
-  background-image: url(/static/media/heart.a33c8a0f3c2f5faa7fd4.svg)
+  background-image: url(https://s-e-pashin.github.io/react-poker-public-1/static/media/heart.a33c8a0f3c2f5faa7fd4.svg)
 }
 
 .playing-cards {

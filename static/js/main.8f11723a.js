@@ -6112,7 +6112,7 @@
 
   t.p = "/", function () {
     var e = t(791), n = t(250);
-    var r = t.p + "static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg";
+    var r = t.p + "https://s-e-pashin.github.io/react-poker-public-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg";
 
     function l(e, n) {
       if (!(e instanceof n)) throw new TypeError("Cannot call a class as a function")
